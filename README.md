@@ -8,4 +8,4 @@ Simple search engine for github users
 
 ## Authors
 
-* **Jovanovich Cristian** -  [PurpleBooth](https://github.com/cristianjova)
+* **Jovanovich Cristian** -  [JovaCM](https://github.com/cristianjova)
